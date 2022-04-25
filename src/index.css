@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.loginForm {
+  width: 500px;
+  margin: auto;
+  padding-top: 150px;
+}
